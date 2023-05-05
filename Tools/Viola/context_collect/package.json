@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "ioredis": "^4.19.2",
+        "mongodb": "^3.6.3",
+        "mysql2": "^2.2.5",
+        "puppeteer-core": "^13.5.2"
+    }
+}

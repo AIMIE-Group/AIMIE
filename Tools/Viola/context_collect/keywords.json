@@ -1,0 +1,27 @@
+{
+    "stopwords": [
+        "div",
+        "id",
+        "class",
+        "a",
+        "href",
+        "wrap",
+        "text",
+        "li",
+        "script",
+        "style",
+        "src",
+        "rel",
+        "type",
+        "span",
+        "p",
+        "name",
+        "alt",
+        "h3",
+        "label",
+        "ul",
+        "end",
+        "hidden",
+        "com"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "link": {
+        "exclude": [
+            "blob",
+            "gstatic",
+            "analytics",
+            "doubleclick.net",
+            ".gif",
+            ".png",
+            ".PNG",
+            ".html",
+            ".css",
+            ".js",
+            ".json"
+        ]
+    },
+    "submit": [
+        "//*[contains(text(),'上传')]",
+        "//*[contains(text(),'注册')]",
+        "//*[contains(text(),'提交')]",
+        "//*[contains(text(),'搜索')]",
+        "//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz'),'search')]",
+        "//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz'),'upload')]",
+        "//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz'),'submit')]",
+        "//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz'),'post')]",
+        "//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz'),'comment')]",
+        "//*[contains(@id,'submit')]",
+        "//*[contains(@class,'submit')]"
+    ]
+}
