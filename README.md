@@ -2,7 +2,7 @@
 
 The repository for "Understanding and Detecting Abused Image Hosting Modules as Malicious Services".
 
-Refer to [link](https://github.com/AIMIE-Group/AIMIE/blob/main/ccs23-AIMIE.pdf) for the online version of our paper's artifacts.
+Refer to [link](https://raw.githubusercontent.com/AIMIE-Group/AIMIE/main/ccs23-AIMIE.pdf) for the online version of our paper's artifacts.
 
 ## Structure
 
